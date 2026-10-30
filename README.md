@@ -49,31 +49,36 @@
 
 **📊 Knowledge Drift Radar**
 
-An interactive data drift monitoring dashboard for Online Retail datasets, using PSI, KS testing and Random Forest to analyze distribution changes and monitor data relevance.
+An interactive data drift monitoring dashboard for Online Retail datasets, using PSI, Kolmogorov-Smirnov testing and Random Forest to analyze distribution changes and monitor data relevance.
 
-[View Repository →](https://github.com/rawshiii/Knowledge-Drift-Radar)
+[GitHub Repository →](https://github.com/rawshiii/Knowledge-Drift-Radar)
 
 **🚨 Emergency Passport**
 
 An emergency-focused Progressive Web Application designed to make essential emergency information and assistance more accessible.
 
+[GitHub Repository →](https://github.com/rawshiii/emergency-passport)
+
 **💰 Spendora – ExpenseAI**
 
 A MERN-based personal finance management platform featuring expense tracking, budgeting, goal tracking, analytics dashboards and AI-powered financial insights.
+
+[Live Demo →](https://spendora-expense-ai.onrender.com)
 
 **🏨 HomelyHub**
 
 A MERN-based hotel booking platform featuring authentication, hotel browsing and booking management.
 
+[GitHub Repository →](HOMELYHUB_REPOSITORY_URL)
+
 ---
 
 ### 💼 Experience
 
-- **MERN Stack Trainee Intern** – WebStack Academy
-- **Palo Alto Networks Cybersecurity Virtual Internship** – Completed
+- MERN Stack Trainee Intern – WebStack Academy
+- Palo Alto Networks Cybersecurity Virtual Internship
 
 ---
-
 
 ### 📜 Certifications & Learning
 
@@ -85,13 +90,15 @@ A MERN-based hotel booking platform featuring authentication, hotel browsing and
 
 ---
 
-
-
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rawshiii&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=BB9AF7&icon_color=7AA2F7&text_color=C0CAF5" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawshiii&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=BB9AF7&text_color=C0CAF5" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=rawshiii&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rawshiii&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=rawshiii&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
